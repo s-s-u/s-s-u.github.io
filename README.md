@@ -30,8 +30,7 @@
 第二代官网依靠Wix建立，原计代替实际上算不上网站的第一代官网长期作为本会官网，自2021年8月19日运维至2022年初，运维由于Wix托管不当导致官网无法访问而被迫中断。  
 [第一代官网](https://www.kdocs.cn/l/s7YsGOupX "https://www.kdocs.cn/l/s7YsGOupX")  
 第一代官网依靠金山文档建立，是本会探索建立官网的第一步（实际上就是个共享文档），自2020年5月23日运维至2021年8月19日，现仍保留。  
-### 官方邮箱
-fujianprovince@outlook.com
+### <a href= "fujianprovince@outlook.com">官方邮箱</a>
 ### [本会创始主席个人网站“陈郑逸领域”](https://fujianprovince.github.io/ "https://fujianprovince.github.io/")  
 ## 捐款
 欢迎给东南学苑捐款！您的每一份捐款都将成为我们前进的动力！  
