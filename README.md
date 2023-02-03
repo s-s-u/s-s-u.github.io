@@ -5,9 +5,8 @@
 ## **性质**
 **东南学苑**，英文“**Southeast Study Union**”，缩写“**SSU**”，格言是“追求卓越，唯我独尊”（“我”泛指中华有识青年一代），是于2018年3月成立于福建福州的青年学生组织。我们以知识和实践为基础，并通过五四精神和共产主义精神的武装，力争使全会会员成长为新中国建设所需要的四有青年。欢迎加入我们！
 ## **文件**
-[东南学苑三年规划](https://github.com/fujianprovince/fujianprovince.github.io/files/9278192/default.pdf)  
-[东南学苑文件汇编](https://github.com/fujianprovince/fujianprovince.github.io/files/9278191/default.pdf)  
-（根据《东南学苑三年规划》，自2022年7月25日至2025年7月25日，《东南学苑文件汇编》暂废，故其内容可能滞后而与现况有所出入。）  
+[东南学苑三年规划（重要）](https://github.com/fujianprovince/fujianprovince.github.io/files/9278192/default.pdf)  
+[东南学苑文件汇编（暂废）](https://github.com/fujianprovince/fujianprovince.github.io/files/9278191/default.pdf)  
 ## **象征**
 东南学苑会标图样  
 ![东南学苑会标图样](https://c2.im5i.com/2023/02/03/nq5yj.png)  
