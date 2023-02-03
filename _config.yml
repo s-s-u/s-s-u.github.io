@@ -13,15 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-email: wutiantian52@outlook.com
+email: 
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" 
 #
 url: "s-s-u.github.io" 
 title: 东南学苑
-github_username:  wutiantian
-host : none
-permalink: none
+github_username:
+host :
+permalink:
 # Build settings
 markdown: kramdown
 theme: minima
