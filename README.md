@@ -2,7 +2,7 @@
 
 # **简介**
 > 
-## 性质
+## **性质**
 **东南学苑**，英文“**Southeast Study Union**”，格言是“追求卓越，唯我独尊”，是于2018年3月成立于福建福州的青年学生组织，以助我等自主、团结、钻研、拼搏，做实事求是解放青年派。  
 ## **文件**
 [东南学苑文件汇编](https://github.com/fujianprovince/fujianprovince.github.io/files/9278191/default.pdf)  
@@ -36,7 +36,7 @@
 [第一代官网](https://www.kdocs.cn/l/s7YsGOupX "https://www.kdocs.cn/l/s7YsGOupX")  
 第一代官网依靠金山文档建立，是本会探索建立官网的第一步（实际上就是个共享文档），自2020年5月23日运维至2021年8月19日，现仍保留。  
 ## **官方邮箱**
-**fujianprovince@outlook.com**  
+**<a href="mailto:fujianprovince@outlook.com>fujianprovince@outlook.com</a>**  
 ## [**本会创始主席个人网站“陈郑逸领域”**](https://fujianprovince.github.io/ "https://fujianprovince.github.io/")  
 
 # **捐款**
