@@ -14,8 +14,31 @@
 ![东南学苑会标字样](https://c2.im5i.com/2023/02/03/nqjpL.jpeg)  
 [东南学苑会歌《青年们前进》音频](https://fujianprovince.github.io/anthem.mp3)  
 [东南学苑会歌《青年们前进》歌词](https://github.com/fujianprovince/fujianprovince.github.io/files/9278292/default.pdf)  
-## **东南学苑第八届会员名单（2022.7.15 —— 2025.7.15）**
-![东南学苑第八届会员名单（2022.7.15 —— 2025.7.15）](https://c2.im5i.com/2023/02/03/nqHYS.png)  
+## **东南学苑会员名单**
+* 陈郑逸（创始主席）  
+邮箱：fujianprovince@qq.com  
+* 周政康（主席）  
+邮箱：3071983768@qq.com  
+* 柯子皓（副主席）  
+邮箱：1404980588@qq.com  
+* 吴子妍（副主席）  
+邮箱：3149845071@qq.com  
+* 马源  
+邮箱：1619493229@qq.com  
+* 张宇龙  
+邮箱：715281116@qq.com  
+* 黄建均  
+邮箱：430323956@qq.com  
+* 彭柏洋  
+邮箱：3502735357@qq.com  
+* 黄琪恒  
+邮箱：213385605@qq.com  
+* 董梓烁  
+邮箱：1506806632@qq.com  
+* 李维桉  
+邮箱：2825795447@qq.com  
+* 黄辰雷  
+邮箱：暂无  
 
 # **联系方式**
 > 
