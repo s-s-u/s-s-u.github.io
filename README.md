@@ -33,7 +33,7 @@
 [第一代官网](https://www.kdocs.cn/l/s7YsGOupX "https://www.kdocs.cn/l/s7YsGOupX")  
 第一代官网依靠金山文档建立，是本会探索建立官网的第一步（实际上就是个共享文档），自2020年5月23日运维至2021年8月19日，现仍保留。  
 ## **官方邮箱**
-<a class="u-email" href="mailto:fujianprovince@outlook.com"><b>fujianprovince@outlook.com</b></a>  
+<a class="u-email" href="mailto:fujianprovince@outlook.com">**fujianprovince@outlook.com**</a>  
 ## [**陈郑逸领域**](https://fujianprovince.github.io/ "https://fujianprovince.github.io/")  
 “陈郑逸领域”是东南学苑创始主席、东南学苑官网主要运维者陈郑逸的个人网站。  
 
