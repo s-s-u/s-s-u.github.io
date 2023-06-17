@@ -9,9 +9,9 @@
 [东南学苑文件汇编（暂废）](https://github.com/fujianprovince/fujianprovince.github.io/files/9278191/default.pdf)  
 ## **象征**
 东南学苑会标图样  
-![东南学苑会标图样](https://c2.im5i.com/2023/02/03/nq5yj.png)  
+![东南学苑会标图样](https://www.z4a.net/images/2023/06/17/logo.png)  
 东南学苑会标字样  
-![东南学苑会标字样](https://c2.im5i.com/2023/02/03/nqjpL.jpeg)  
+![东南学苑会标字样](https://www.z4a.net/images/2023/06/17/logo.jpg)  
 [东南学苑会歌《青年们前进》音频](https://fujianprovince.github.io/anthem.mp3)  
 [东南学苑会歌《青年们前进》歌词](https://github.com/fujianprovince/fujianprovince.github.io/files/9278292/default.pdf)  
 ## **东南学苑会员名单**
@@ -69,7 +69,7 @@
 # **捐款**
 > 
 欢迎给东南学苑**捐款**！您的每一份捐款都将成为我们前进的动力！  
-![捐款](https://c2.im5i.com/2023/02/03/nvVNm.png)  
+![捐款](https://www.z4a.net/images/2023/06/17/3224256495c056f6cde5744a1fd8655b.png)  
 
 # **版权声明**
 > 
