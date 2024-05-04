@@ -3,17 +3,15 @@
 # **简介**
 > 
 ## **性质**
-**东南学苑**，英文“**Southeast Study Union**”，缩写“**SSU**”，格言是“追求卓越，唯我独尊”（“我”泛指中华有识青年一代），是于2018年3月成立于福建福州的青年学生组织。我们以知识和实践为基础，并通过五四精神和共产主义精神的武装，力争使全会会员成长为新中国建设所需要的四有青年。欢迎加入我们！
+**东南学苑**，英文“**Southeast Study Union**”，缩写“**SSU**”，是于2018年3月成立于福建福州的青年学生组织。我们以知识和实践为基础，并通过五四精神和共产主义精神的武装，力争使全会会员成长为新中国建设所需要的四有青年。欢迎加入我们！
 ## **文件**
 [东南学苑三年规划（重要）](https://github.com/fujianprovince/fujianprovince.github.io/files/9278192/default.pdf)  
 [东南学苑文件汇编（暂废）](https://github.com/fujianprovince/fujianprovince.github.io/files/9278191/default.pdf)  
-## **象征**
-东南学苑会标图样  
-![东南学苑会标图样](https://www.z4a.net/images/2023/06/17/logo.png)  
-东南学苑会标字样  
-![东南学苑会标字样](https://www.z4a.net/images/2023/06/17/logo.jpg)  
-[东南学苑会歌《青年们前进》音频](https://fujianprovince.github.io/anthem.mp3)  
-[东南学苑会歌《青年们前进》歌词](https://github.com/fujianprovince/fujianprovince.github.io/files/9278292/default.pdf)  
+## **LOGO**
+图样  
+![图样](https://www.z4a.net/images/2023/06/17/logo.png)  
+字样  
+![字样](https://www.z4a.net/images/2023/06/17/logo.jpg)  
 ## **东南学苑会员名单**
 * 陈郑逸（创始主席）  
 邮箱：fujianprovince@qq.com  
