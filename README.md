@@ -4,41 +4,26 @@
 > 
 ## **性质**
 **东南学苑**，英文“**Southeast Study Union**”，缩写“**SSU**”，是于2018年3月成立于福建福州的青年学生组织。我们以知识和实践为基础，并通过五四精神和共产主义精神的武装，力争使全会会员成长为新中国建设所需要的四有青年。欢迎加入我们！
-## **文件**
-[东南学苑三年规划（重要）](https://github.com/fujianprovince/fujianprovince.github.io/files/9278192/default.pdf)  
-[东南学苑文件汇编（暂废）](https://github.com/fujianprovince/fujianprovince.github.io/files/9278191/default.pdf)  
 ## **LOGO**
 图样  
 ![图样](https://www.z4a.net/images/2023/06/17/logo.png)  
 字样  
 ![字样](https://www.z4a.net/images/2023/06/17/logo.jpg)  
 ## **东南学苑会员名单**
-* 陈郑逸（创始主席）  
-邮箱：fujianprovince@qq.com  
+* 陈郑逸（创始主席）
 * 周政康（主席）  
-邮箱：3071983768@qq.com  
 * 柯子皓（副主席）  
-邮箱：1404980588@qq.com  
 * 吴子妍（副主席）  
-邮箱：3149845071@qq.com  
 * 沈东晨  
-邮箱：3530334369@qq.com  
 * 马源  
-邮箱：1619493229@qq.com  
 * 张宇龙  
-邮箱：715281116@qq.com  
 * 黄建均  
-邮箱：430323956@qq.com  
 * 彭柏洋  
-邮箱：3502735357@qq.com  
 * 黄琪恒  
-邮箱：213385605@qq.com  
 * 董梓烁  
-邮箱：1506806632@qq.com  
 * 李维桉  
-邮箱：2825795447@qq.com  
 * 黄辰雷  
-邮箱：暂无  
+* 林泰宇  
 
 # **联系方式**
 > 
@@ -67,7 +52,11 @@
 # **捐款**
 > 
 欢迎给东南学苑**捐款**！您的每一份捐款都将成为我们前进的动力！  
-![捐款](https://www.z4a.net/images/2023/06/17/3224256495c056f6cde5744a1fd8655b.png)  
+![捐款](https://www.z4a.net/images/2023/06/17/3224256495c056f6cde5744a1fd8655b.png)
+
+## **往期文件**
+[东南学苑三年规划](https://github.com/fujianprovince/fujianprovince.github.io/files/9278192/default.pdf)  
+[东南学苑文件汇编](https://github.com/fujianprovince/fujianprovince.github.io/files/9278191/default.pdf)  
 
 # **版权声明**
 > 
